@@ -1,6 +1,6 @@
 # React Calculator
 
-A simple calculator built using React, create-react-app and Dracula color scheme.
+A simple calculator built with React, featuring the [Dracula Color Scheme](https://github.com/dracula/dracula-theme) and bootstraped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ![Calculator Screenshot](assets/img/calculator-screenshot1.png)
 
