@@ -4,6 +4,7 @@ const Buttons = ({handleNumbers, handleOperator, handleDecimal, handleEvaluate, 
   <div id="buttons">
     <button className="button" id="clear" value="AC" onClick={handleClear}>AC</button>
     <button className="button" id="divide" value="/" onClick={handleOperator}>÷</button>
+
     <button className="button" id="multiply" value="*" onClick={handleOperator}>×</button>
     <button className="button" id="one" value="1" onClick={handleNumbers}>1</button>
     <button className="button" id="two" value="2" onClick={handleNumbers}>2</button>
